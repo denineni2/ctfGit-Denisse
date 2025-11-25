@@ -63,7 +63,7 @@ body {
 /* Hero Section */
 .hero {
     background: linear-gradient(rgba(102, 126, 234, 0.8), rgba(118, 75, 162, 0.8)),
-                url('https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170');
+                url('https://es.gizmodo.com/app/uploads/2024/12/Gato-Naranja.jpg');
     background-size: cover;
     background-position: center;
     height: 80vh;
@@ -283,13 +283,13 @@ body {
 
 /* IMÁGENES DE RAZAS (rama images) */
 .siames {
-    background-image: url('https://images.unsplash.com/photo-1568572933382-74d440642117?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=735');
+    background-image: url('https://media-eu.husse.com/media/0e/90/61/1607080248/iStock-1076432222.jpg');
 }
 
 .persa {
-    background-image: url('https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=694');
+    background-image: url('https://cachorroselite.com/wp-content/uploads/2024/10/gato-persa.png');
 }
 
 .maine-coon {
-    background-image: url('https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOphantG1OiIHYsnhn8fIwm5CG84RLjHBBliHbPCMmukAMCZqvAZuz_U4H_-A2hNB_QEg&usqp=CAU');
 }
